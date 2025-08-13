@@ -49,8 +49,8 @@
 
 ## 🖼 Screenshots
 <p align="center">
-  <img src="https://cdn.mos.cms.futurecdn.net/rS2KVt3xKdGivvkWimoLFF-1200-80.jpg" alt="Days Gone Screenshot 1" width="55%"/>
-  <img src="https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2019/07/DaysGone_08.jpg" alt="Days Gone Screenshot 2" width="55%"/>
+  <img src="https://cdn.mos.cms.futurecdn.net/rS2KVt3xKdGivvkWimoLFF-1200-80.jpg" alt="Days Gone Screenshot 1" width="65%"/>
+  <img src="https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2019/07/DaysGone_08.jpg" alt="Days Gone Screenshot 2" width="65%"/>
 </p>
 
 ---
